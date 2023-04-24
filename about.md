@@ -4,6 +4,8 @@ title: About
 permalink: /about
 ---
 
-Hi, Write an awesome description about your blog here.  
-Feel free to make it a bit more interesting by adding a picture or two.  
-Only limit here is your creativity and imagination. Unleash them with full force.  
+Hi, I am Vivien and I like to translate Tibetan manuscripts. 
+They look like this: 
+
+![Manuscript image](http://idp.bl.uk/image_IDP.a4d?type=loadRotatedMainImage;recnum=77735;rotate=0;imageType=_M "Manuscript image")
+
