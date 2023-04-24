@@ -1,10 +1,10 @@
 ---
 layout: post
 title: Hello World Continues
-categories: [content, demo]
+categories: [post, GitHub]
 ---
 
-# First Post about Setting Up a Blog
+# _First Post about Setting Up a Blog_
 ## GitHub, Jekyll
 
 For setting up our own blog, we used _Jekyll_'s version on GitHub. Once we 'forked' it, we could have our own site. 
