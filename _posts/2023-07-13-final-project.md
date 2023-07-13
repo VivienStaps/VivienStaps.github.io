@@ -7,7 +7,7 @@ categories: [post, GitHub]
 # _Post about Final Project_
 ## Manuscript Online Collections
 
-[FInal Project](/ "https://vivienstaps.github.io/manuscript_art/")
+[Manuscript Online Collection](/ "https://vivienstaps.github.io/manuscript_art/")
 
 ![Manuscript_art logo](https://vivienstaps.github.io/manuscript_art/objects/IOL_Tib_J_594_2.jpg "Manuscript_art logo")
 
